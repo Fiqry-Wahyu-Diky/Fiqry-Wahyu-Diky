@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fiqry Wahyu Diky W</h1>
 <h3 align="center">Informatics Engineering student at Trunojoyo Madura University</h3>
-<img src="https://media2.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" align="right" width ="230">
+<img src="https://media2.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" align="right" width ="210">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fiqry-wahyu-diky&label=Profile%20views&color=0e75b6&style=flat" alt="fiqry-wahyu-diky" /> </p>
 
